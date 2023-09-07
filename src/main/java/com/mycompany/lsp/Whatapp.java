@@ -13,8 +13,7 @@ public class Whatapp extends SocialMedia {
     // groupVideoCall logic
   }
 
-  // Not supported
   public void publishPost(String postMessage) {
-    // publishPost logic
+     // Not supported by Whatapp
   }
 }
